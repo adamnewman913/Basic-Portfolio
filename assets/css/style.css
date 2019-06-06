@@ -1,0 +1,49 @@
+header {font-family: Georgia, 'Times New Roman', Times, serif;
+background-color: #ffffff;
+}
+span {background-color: #4aaaa5;
+color: white;
+font-size: 50px;
+border-style: solid;
+border-width: 1px;
+border-color: #cccccc;}
+ul {float: right;
+     list-style: outside none none;
+    margin: 0px;
+    padding: 0px}
+li {display: inline;}
+.jake {float: left;
+    height: 200px;
+margin-top: 20px;
+margin-bottom: 20px;
+margin-right: 20px;
+margin-left: 20px;
+position: relative;
+}
+.coding {float: left;
+    height: 200px;
+margin-top: 20px;
+margin-bottom: 20px;
+margin-right: 20px;
+margin-left: 20px;
+position: relative;
+}
+footer {position:relative;
+    height: 50px;
+    font-size: 20px;
+    color: #cccccc;
+    text-align: center; 
+    background-color: #666666;
+    border-top: 20px;
+    border-color: #4aaaa5}
+.content {
+    width: 960px;
+    margin: auto;
+    background: white;
+    padding: 10px;
+    border-style: solid;
+    border-color: #dddddd;
+    }
+p {font-family: Arial, Helvetica, sans-serif;
+position: relative}
+body {background-image: url("../images/beige-tiles.png")}
