@@ -1,4 +1,4 @@
-header {font-family: Georgia, 'Times New Roman', Times, serif;
+header h2 {font-family: Georgia, 'Times New Roman', Times, serif;
 background-color: #ffffff;
 }
 span {background-color: #4aaaa5;
@@ -12,7 +12,7 @@ ul {float: right;
     margin: 0px;
     padding: 0px}
 li {display: inline;}
-.jake {float: left;
+.adam {float: left;
     height: 200px;
 margin-top: 20px;
 margin-bottom: 20px;
@@ -20,14 +20,35 @@ margin-right: 20px;
 margin-left: 20px;
 position: relative;
 }
-.coding {float: left;
-    height: 200px;
-margin-top: 20px;
-margin-bottom: 20px;
-margin-right: 20px;
-margin-left: 20px;
-position: relative;
-}
+.coding {height: 200px;
+    width: 200px;
+    position: relative;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: 20px;
+    margin-left: 20x;}
+.yardwork {height: 200px;
+    width:200px;
+    position: relative;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: 20px;
+    margin-left: 20x;}
+.chiefs {height: 200px;
+    width:200px;
+    position: relative;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: 20px;
+    margin-left: 20x;}
+.sleep {height: 200px;
+    width:200px;
+    position: relative;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: 20px;
+    margin-left: 20x;}  
+
 footer {position:relative;
     height: 50px;
     font-size: 20px;
@@ -43,7 +64,11 @@ footer {position:relative;
     padding: 10px;
     border-style: solid;
     border-color: #dddddd;
+    border-bottom-color: #4aaaa5;
+    border-bottom-width: 10px
     }
 p {font-family: Arial, Helvetica, sans-serif;
 position: relative}
 body {background-image: url("../images/beige-tiles.png")}
+figcaption {background-color: #4aaaa5; 
+display: inline-block}
